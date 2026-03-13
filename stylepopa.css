@@ -1,0 +1,14 @@
+h1 {
+    font-style: italic;
+    color:aquamarine;
+    font-size: 55px;
+}
+h2 {
+    font-weight: 100;
+    color: chartreuse;
+    font-size: 15px;
+}
+p {
+    color: orchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
